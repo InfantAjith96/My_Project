@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NetworkCheck/app/src/main/res/drawable/ic_signal_wifi_2.xml" value="0.248" />
+        <entry key="..\:/NetworkCheck/app/src/main/res/drawable/ic_signal_wifi_2_bar_black_24dp.xml" value="0.248" />
+        <entry key="..\:/NetworkCheck/app/src/main/res/drawable/ic_signal_wifi_3_bar_black_24dp.xml" value="0.248" />
+        <entry key="..\:/NetworkCheck/app/src/main/res/drawable/ic_signal_wifi_4_bar_black_24dp.xml" value="0.248" />
+        <entry key="..\:/NetworkCheck/app/src/main/res/drawable/ic_signal_wifi_off1.xml" value="0.248" />
+        <entry key="..\:/NetworkCheck/app/src/main/res/drawable/internet_anim.xml" value="0.248" />
+        <entry key="..\:/NetworkCheck/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
