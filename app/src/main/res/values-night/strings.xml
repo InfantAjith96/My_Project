@@ -3,4 +3,6 @@
     <string name="wifi">Wifi Connection</string>
     <string name="cellular">Cellular Connection</string>
     <string name="no_connection">No Connection</string>
+    <string name="oops_nno_connection">Oops!\nNo connection</string>
+    <string name="check_your_internet_connection">Check your internet connection</string>
 </resources>

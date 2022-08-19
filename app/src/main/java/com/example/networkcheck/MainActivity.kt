@@ -26,12 +26,16 @@ class MainActivity : AppCompatActivity() {
                             ConnectionType.Wifi -> {
                                 internet_status.text = getString(R.string.wifi)
                                 imageView.visibility = View.GONE
+                                textView1.visibility = View.GONE
+                                textView2.visibility = View.GONE
                                 internet_status.visibility = View.VISIBLE
                                 wifiAnimation?.stop()
                             }
                             ConnectionType.Cellular -> {
                                 internet_status.text = getString(R.string.cellular)
                                 imageView.visibility = View.GONE
+                                textView1.visibility = View.GONE
+                                textView2.visibility = View.GONE
                                 internet_status.visibility = View.VISIBLE
                                 wifiAnimation?.stop()
 
@@ -44,6 +48,8 @@ class MainActivity : AppCompatActivity() {
                         //internet_status.text = getString(R.string.no_connection)
                         imageView.setBackgroundResource(R.drawable.internet_anim)
                         imageView.visibility = View.VISIBLE
+                        textView1.visibility = View.VISIBLE
+                        textView2.visibility = View.VISIBLE
                         internet_status.visibility = View.GONE
                         wifiAnimation?.start()
                     }
